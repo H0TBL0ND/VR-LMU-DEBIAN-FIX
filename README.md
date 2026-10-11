@@ -74,7 +74,7 @@ Close Steam before editing its config files. **A game update or "verify integrit
 
 | Item | Value |
 |---|---|
-| LMU Steam build | buildid `25661166` (manifest updated 2026-10-09) |
+| LMU Steam build | buildid `25661166` (local manifest last updated 2026-10-10, i.e. our reinstall) |
 | Kernel | 6.12.107+deb13-amd64 |
 | WiVRn Flatpak | 26.9, commit `61d58e18b177b19a34f4a0f3063c571bfc7585ef8a3145327a5beb8b5e268332` |
 | Proton | `GE-Proton10-34-LMU-hid_fixes-vr-bcrypt` (`version` file: `1785273675`) |
