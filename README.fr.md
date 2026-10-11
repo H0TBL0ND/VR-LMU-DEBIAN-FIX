@@ -1,5 +1,7 @@
 # Le Mans Ultimate en VR sous Linux (WiVRn + xrizer + Proton) — les vrais blocages et leurs solutions
 
+Licence : MIT (voir [LICENSE](LICENSE)).
+
 English: [README.md](README.md)
 
 Le Mans Ultimate (LMU, appid 2399420) peut se lancer en VR sous Linux avec un casque autonome, **sans SteamVR**, grâce à WiVRn (runtime OpenXR),
